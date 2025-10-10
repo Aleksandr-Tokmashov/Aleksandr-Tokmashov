@@ -1,4 +1,4 @@
-### Привет! 👋 Я Александр, фронтенд-разработчик  
+### Привет! 👋 Я Александр
 🌱 **Осваиваю веб разработку** \
 🏠 **Местоположение:** Москва, Россия \
 🎓 **Образование:** Студент второго курса Российского университета транспорта (РУТ МИИТ) \
@@ -40,11 +40,6 @@
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
 
-## Что хочу изучить
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 <!--
 **Aleksandr-Tokmashov/Aleksandr-Tokmashov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
