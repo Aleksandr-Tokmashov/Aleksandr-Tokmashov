@@ -9,25 +9,20 @@
 ## Навыки
 
 ### Data Science
-[[[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)](https://www.iso.org/standard/63555.html)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=amazondynamodb&logoColor=white
-https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
-https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white
-https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
-https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white
-https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white
-https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
-https://img.shields.io/badge/Apache_Superset-3EACE5?style=for-the-badge&logo=apache-superset&logoColor=white
-https://img.shields.io/badge/NocoDB-2C3E50?style=for-the-badge&logo=nocodb&logoColor=white
-https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
-https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white
-https://img.shields.io/badge/Yandex_DataLens-FF0000?style=for-the-badge&logo=yandex&logoColor=white
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=amazondynamodb&logoColor=white)]
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white)]
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]
+[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)]
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)]
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]
+[![Apache Superset](https://img.shields.io/badge/Apache_Superset-3EACE5?style=for-the-badge&logo=apache-superset&logoColor=white)]
+[![NocoDB](https://img.shields.io/badge/NocoDB-2C3E50?style=for-the-badge&logo=nocodb&logoColor=white)]
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]
+[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)]
+[![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)]
+[![Yandex DataLens](https://img.shields.io/badge/Yandex_DataLens-FF0000?style=for-the-badge&logo=yandex&logoColor=white)]
 
 
 
@@ -50,8 +45,9 @@ https://img.shields.io/badge/Yandex_DataLens-FF0000?style=for-the-badge&logo=yan
 ### Other
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=object-oriented-programming&logoColor=white)](https://en.wikipedia.org/wiki/Object-oriented_programming)
-https://img.shields.io/badge/Yandex_Cloud-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-FF0000?style=for-the-badge&logo=yandex&logoColor=white)]
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]
+
 
 
 <!--
