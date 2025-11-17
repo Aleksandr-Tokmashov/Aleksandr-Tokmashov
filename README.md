@@ -35,7 +35,6 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
-[![Адаптивная верстка](https://img.shields.io/badge/Адаптивная%20верстка-FFA500?style=for-the-badge&logo=responsive&logoColor=white)](https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Responsive_Design)
 [![MVC](https://img.shields.io/badge/MVC-5A67D8?style=for-the-badge&logo=mvc&logoColor=white)](https://en.wikipedia.org/wiki/Model–view–controller)
 [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
