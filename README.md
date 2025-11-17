@@ -46,7 +46,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=object-oriented-programming&logoColor=white)](https://en.wikipedia.org/wiki/Object-oriented_programming)
 [![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-FF0000?style=for-the-badge&logo=yandex&logoColor=white)]
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
